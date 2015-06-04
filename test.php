@@ -7,7 +7,7 @@
  * @Last Modified time: 2015-06-04 15:58:43
  */
 
-require 'mysql_db_class.php.php';
+require 'mysql_db_class.php';
 
 //$hj = new M("test");
 //增
