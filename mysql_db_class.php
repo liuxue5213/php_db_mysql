@@ -195,9 +195,3 @@ class M
 
 }
 
-
-//$hj = new M("user");
-//echo $hj->insert("NULL,'hj.q@qq.com','cde'");
-//$arr = $hj->select();
-//print_r($arr);
-//echo $hj->update("id>3",array("email"=>"bn@c.cc"));
